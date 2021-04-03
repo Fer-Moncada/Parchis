@@ -3,8 +3,9 @@ body{
 	margin: 2%;
 }
 header{
-background-color: yellow;
+background-color: lightyellow;
 padding: 2%;
+border-radius: 15px;
 }
 nav a{
 	display: inline-block;
@@ -41,7 +42,8 @@ aside{
 	display: inline-block;
 	float:left;
 	width: 20%;
-	background: #22DD44;	
+	border-radius: 15px;
+	background: lightgreen;	
 	height:600px;
 	padding-top:20px;
 }
