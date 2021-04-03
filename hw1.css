@@ -4,7 +4,6 @@ body{
 }
 header{
 background-color: #4F5566;
-background-image: url('../images/flywheel.jpg');
 padding: 2%;
 }
 nav a{
@@ -13,7 +12,7 @@ nav a{
 	border-radius: 15px;
 	text-decoration: none;
 	padding: 1% 4% 1% 4%;
-	background-color: #4FFF66;
+	background-color: #4F5566;
 	opacity: 0.7;
 }
 .active{
