@@ -98,7 +98,7 @@ nav a{
 	margin: 1% 4% 1% 4%;
 	border-radius: 15px;
 	padding: 1% 4% 1% 4%;
-	background-color: #FFA500;
+	background-color: #00A5AA;
 }
 .active{
 	background-color: #D4FF30;
@@ -157,7 +157,7 @@ iframe{
 display:block;
 }
 body{ 
-      background: rgba(250, 250, 0, 0.2); 
+      background: rgba(0, 250, 250, 0.2); 
   }
 @media only screen and (max-width: 600px) {
 	aside{
