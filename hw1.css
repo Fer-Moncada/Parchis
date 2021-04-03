@@ -33,6 +33,13 @@ h2{
 color: #6A6A11;
 }
 
+@media only screen and (max-width: 600px) {
+	aside{
+	display: inline-block;
+	float:center;
+	width: 90%;
+}
+
 img{
 	display: inline-block;
 	border: 3px solid #DFFF8B
