@@ -20,6 +20,8 @@ nav a{
 	background-color: #4444F6;
 }
 section{
+	padding: 3%;
+	margin: 3%;
 	display: inline-block;
 	width: 70%;
 }
